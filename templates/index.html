@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <div class="center">
+    <h1>Basic Calculator</h1>
+    
+    <form action="result">
+        {% csrf_token %}
+        <input type="number" name="number1" placeholder="Enter first number:" step=any>
+        <br>
+        <br> 
+        <input type="number" name="number2" placeholder="Enter second number:" step=any>
+        <br>
+        <br>
+        <input type="text" name="operation" placeholder="Enter operation:" step=any>
+        <br>
+        <br>
+        <button type="submit" name="result.html">Get the result</button>
+    
+    </form>
+    </div>
+    
+    <style>
+      .center {
+        top: 500px;
+        margin: auto;
+        width: 60%;
+        border: 3px solid #2e7030;
+        padding: 10px;
+
+      }
+    </style>
+</body>
+</html>
