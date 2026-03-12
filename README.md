@@ -23,6 +23,7 @@ $ python manage.py runserver
 ```
 # Screenshots
 
-<img width="1174" height="291" alt="Снимок экрана 2026-03-12 155239" src="https://github.com/user-attachments/assets/75fcb108-470f-4d4a-83e5-ea7b70238549" />
+<img width="1174" height="291" alt="Снимок экрана 2026-03-12 155239" src="https://github.com/user-attachments/assets/5bb30723-7f47-4f0c-80df-dca04fcf5742" />
 
-<img width="605" height="148" alt="Снимок экрана 2026-03-12 155226" src="https://github.com/user-attachments/assets/5a815073-3aae-446e-8ec0-7a2240073bda" />
+<img width="605" height="148" alt="Снимок экрана 2026-03-12 155226" src="https://github.com/user-attachments/assets/9b7144af-4631-4ee1-8d67-de7028ae4ef4" />
+
